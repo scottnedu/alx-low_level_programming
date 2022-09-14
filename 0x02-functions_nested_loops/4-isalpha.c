@@ -3,7 +3,8 @@
 
 /**
  * main - check the code.
- *
+ * _isalpha - Check if it is an alphabet
+ * c: An input Chracter
  * Return: Always 0
  */
 
