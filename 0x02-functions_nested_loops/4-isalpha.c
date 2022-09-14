@@ -10,9 +10,8 @@
  *
  */
 
-int main (void)
+int main (int c)
 {
-	char c;
 
 	if (c == 'a' && c == 'z')
 	{
