@@ -7,10 +7,8 @@
  * Return always 0
  *
  */
-void = _putchar()
-{
-}
-int main(void)
+
+int main()
 {
 
 	_putchar('_');
