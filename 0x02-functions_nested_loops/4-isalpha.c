@@ -10,7 +10,7 @@
  *
  */
 
-int main (int c)
+int _isalpha(int c)
 {
 
 	if (c >= 'a' && c <= 'z')
