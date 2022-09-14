@@ -10,7 +10,7 @@
  *
  */
 
-int main (int c)
+int main (int c, int C)
 {
 
 	if (c == 'a' && c == 'z')
