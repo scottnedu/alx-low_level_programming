@@ -2,10 +2,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * _isalpha - Check if it is an alphabet
- * c: An input Chracter
- * Return: Always 0
+ *  _isalpha - Check the code to see if it is an alphabet
+ *  @c: An input Chracter
+ *  Return: Always 0
  */
 
 int _isalpha(int c)
