@@ -3,7 +3,7 @@
 
 /**
  * print_sign - checks the code
- * @n: The number to be printed 
+ * @n: The number to be printed
  * Return: 1 or 0
  */
 
@@ -26,5 +26,4 @@ int print_sign(int n)
 	_putchar('0');
 	return (0);
 	}
-
-}	
+}
