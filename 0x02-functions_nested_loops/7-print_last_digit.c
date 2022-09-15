@@ -6,7 +6,7 @@
 /**
  *  print_last_digit - Check Holberton
  *
- *  @r: An integer input
+ *  @n: An integer input
  *
  *  Description: This function prints the last digit of a number
  *
@@ -23,7 +23,7 @@ int print_last_digit = n % 10;
 if (print_last_digit < 0)
 		print_last_digit *= -1;
 
-	_putchar(print_last_digit + '0');
+_putchar(print_last_digit + '0');
 
-	return (print_last_digit);
+return (print_last_digit);
 }
