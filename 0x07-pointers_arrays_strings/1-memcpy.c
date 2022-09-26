@@ -9,7 +9,8 @@
  * PSEUDOCODE
  * Looping through the length of bytes n
  *	dest[i] = src[i]
- */
+*/
+
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int i;
