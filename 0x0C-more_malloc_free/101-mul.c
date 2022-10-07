@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main.h"
+
 /**
  * main - Check the code
  * @argc: number of arguments
@@ -8,6 +8,7 @@
  * Return: Nothing
  */
 int main(int argc, char **argv)
+
 {
 	int num1, num2, result;
 
