@@ -7,7 +7,6 @@
  * @age: age of the dog
  * @owner: owner of the dog
  * author: sammykingx
-
 */
 
 struct dog
